@@ -1,4 +1,4 @@
-## Welcome to EcoSoft IT Solutions.
+## Welcome to FinsterSoft IT Solutions.
 
 ## Many Greetings
   ### Hello Users, Welcome to Hotel Management Software Warehouse. Nowadays, We all know that management is most required thing in any startup business or a well developed business. In addition,   Management of Gigantic firms are more difficult today. Our Company work on Sofwares to get the best solutions of todays problems. Today, We are introducing a new software for   Hotel Management. 
