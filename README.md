@@ -1,7 +1,7 @@
 ## Welcome to EcoSoft IT Solutions.
 
 ## Many Greetings
-  ### Hello Users, Welcome to Hotel Management Software Warehouse. Nowadays, We all know that management is most reqired thing in any startup business or a well developed business. In addition,   Management of Gigantic firms are more difficult today. Our Company work on Sofwares to get the best solutions of todays problems. Today, We are introducing a new software for   Hotel Management. 
+  ### Hello Users, Welcome to Hotel Management Software Warehouse. Nowadays, We all know that management is most required thing in any startup business or a well developed business. In addition,   Management of Gigantic firms are more difficult today. Our Company work on Sofwares to get the best solutions of todays problems. Today, We are introducing a new software for   Hotel Management. 
   
  ### Hotel Management Sofware developed to make calculation easier and little bit faster. This sofware is very customer friendly so anyone can use easily and fastly. This Sofware     has covered many basic features which highly required for any Hotel or Restaurant. 
  
