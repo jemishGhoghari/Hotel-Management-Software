@@ -18,10 +18,17 @@
    7. User Friendly
    8. Easy Installation
 ```
+
 ## Basic Requirements 
 ```
    1. Computer Architecture: Windows 32bit or 64bit
 ```
+
+## Contact Us
+```
+  Email: computerscience7120@gmail.com
+```
+
 ## Pictures
 
 ### Screenshot 1
@@ -35,3 +42,5 @@
 
 ### Screenshot4
 ![Image 4](https://user-images.githubusercontent.com/75610733/116500643-9619cc80-a8cc-11eb-8e75-fc0e513cf0e2.png)
+
+
