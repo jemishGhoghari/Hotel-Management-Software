@@ -1,4 +1,4 @@
-## Welcome to FinsterSoft IT Solutions.
+## Welcome to FinsterSoft Inc.
 
 ## Many Greetings
   #### Hello Users, Welcome to Hotel Management Software Warehouse. Nowadays, We all know that management is most required thing in any startup business or a well developed business. In addition,   Management of Gigantic firms are more difficult today. Our Company work on Sofwares to get the best solutions of todays problems. Today, We are introducing a new software for   Hotel Management. 
@@ -20,5 +20,18 @@
 ```
 ## Basic Requirements 
 ```
-   
+   1. Computer Architecture: Windows 32bit or 64bit
 ```
+## Pictures
+
+### Screenshot 1
+![Image 1](https://user-images.githubusercontent.com/75610733/116500626-8bf7ce00-a8cc-11eb-8090-6d1d3d7853ef.png)
+
+### Screenshot 2
+![Image 2](https://user-images.githubusercontent.com/75610733/116500632-9023eb80-a8cc-11eb-990f-4907a7b5b69e.png)
+
+### Screenshot 3
+![Image 3](https://user-images.githubusercontent.com/75610733/116500639-92864580-a8cc-11eb-8fa9-ca74293a5550.png)
+
+### Screenshot4
+![Image 4](https://user-images.githubusercontent.com/75610733/116500643-9619cc80-a8cc-11eb-8e75-fc0e513cf0e2.png)
